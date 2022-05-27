@@ -1,5 +1,5 @@
 public class valueinput{
-    public static void main(String[] args){1
+    public static void main(String[] args){
 
 
         System.out.print("Enter value 1:"); 
