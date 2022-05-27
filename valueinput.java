@@ -1,5 +1,6 @@
 public class valueinput{
-    public static void main(String[] args){
+    public static void main(String[] args){1
+
 
         System.out.print("Enter value 1:"); 
         String val1 = System.console().readLine();
