@@ -23,8 +23,10 @@ public class classtask {
         }
     }
       public static void main(String[] args){
-        Grademarks();
-        Grademarks();
+        Grademarks();    
+        Grademarks();  
+        Grademarks();  
+        Grademarks();   
 
       }
    
