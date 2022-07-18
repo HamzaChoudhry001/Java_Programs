@@ -9,7 +9,7 @@ public class ifelse {
         System.out.print("Enter 3rd value :"); 
         String c1 = System.console().readLine();
 
-        Integer a = Integer.parseInt(a1);
+                                  Integer  a = Integer.parseInt(a1);
         Integer b = Integer.parseInt(b1);
         Integer c = Integer.parseInt(c1);
 
